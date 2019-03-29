@@ -4,4 +4,21 @@ body {
 }
 h1 {
   text-align: center;
+  font-size: 60px;
+}
+
+#navbarNavAltMarkup {
+  font-size: 40px;
+}
+
+#carouselExampleIndicators {
+  width: 600px;
+}
+
+.carousel {
+  width: 300px; margin: 0 auto;
+}
+
+.navbar {
+  background-color: rgb(255, 111, 118);
 }
